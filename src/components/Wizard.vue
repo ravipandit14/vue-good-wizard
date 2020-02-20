@@ -236,7 +236,7 @@ export default {
   display:  block;
   width:  16px;
   height:  16px;
-  background-color: #51abe4;
+  background-color: #e5e5e5;
   border-radius: 50%;
   border: 3px solid #fff;
   position:  absolute;
@@ -310,7 +310,7 @@ export default {
   width:  120px;
   height:  100%;
   display: block;
-  background-color: #51abe4;
+  background-color: #e5e5e5;
   color:  white;
   font-weight: bold;
   text-align: center;
