@@ -303,7 +303,7 @@ export default {
   height:  50px;
   width:  100%;
   border-top:  1px solid #aebac4;
-  background-color: #b9c7d2;
+  background-color: #0000;
 }
 
 .wizard__body__actions a{
