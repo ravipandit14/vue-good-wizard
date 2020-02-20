@@ -247,11 +247,11 @@ export default {
 }
 
 .wizard__step.active .wizard__step__indicator{
-  background-color: #6eb165;
+  background-color: #c52f2f;
 }
 
 .wizard__step.active:not(:first-child) .wizard__step__line{
-  background-color: #6eb165; /* green */
+  background-color: #c52f2f; /* red */
 }
 
 .wizard__step__label{
@@ -363,7 +363,7 @@ export default {
 }
 
 .wizard__body__actions a.final-step{
-  background-color: #6eb165;
+  background-color: #c52f2f;
 }
 
 /* mobile */

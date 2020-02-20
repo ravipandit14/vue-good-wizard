@@ -165,11 +165,11 @@
 }
 
 .wizard__step.active .wizard__step__indicator[data-v-c21d83ca]{
-  background-color: #6eb165;
+  background-color: #c52f2f;
 }
 
 .wizard__step.active:not(:first-child) .wizard__step__line[data-v-c21d83ca]{
-  background-color: #6eb165; /* green */
+  background-color: #c52f2f; /* red */
 }
 
 .wizard__step__label[data-v-c21d83ca]{
@@ -249,7 +249,7 @@
 }
 
 .wizard__body__actions a.final-step[data-v-c21d83ca]{
-  background-color: #6eb165;
+  background-color: #c52f2f;
 }
 
 
