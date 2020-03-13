@@ -359,7 +359,7 @@ export default {
 }
 
 .wizard__body__actions a:hover{
-  background-color: #357fae;
+  background-color: #8a2121;
 }
 
 .wizard__body__actions a.final-step{
