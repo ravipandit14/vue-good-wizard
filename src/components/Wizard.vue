@@ -7,7 +7,8 @@
           'vgw-mobile': isMobile,
         }"
         :style="wizardStepStyle"
-        v-for="(step, index) of steps" :key="index">
+        v-for="(step, index) of steps" :key="index"
+        @click="goTo(index)">
         <span class="wizard__step__line" :class="{'vgw-mobile': isMobile}"></span>
         <span class="wizard__step__label">{{step.label}}</span>
         <span class="wizard__step__indicator"></span>
